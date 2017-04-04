@@ -20,6 +20,6 @@
     </servlet-mapping>
     
     <listener>
-        <listener-class>com.sample.jersey.app.MyServlet</listener-class>
+        <listener-class>com.sample.jersey.app.RestFullWebSerTest</listener-class>
     </listener>
 </web-app>
